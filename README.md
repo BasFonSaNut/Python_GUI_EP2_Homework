@@ -3,7 +3,7 @@
 - ส่งการบ้าน โดยน้อง สา ศิษย์แม่บุญญา 
 - การบ้าน git node นี้โมจากเนื้อหา GUI EP2. lab ขายทุเรียน
 - เลือก Python OOP coding style เพื่อให้เป็นไปในทางเดียวกันกับ ที่เลือกสนใจพิเศษ ไว้กับชั้นเรียน
-- เขียนด้วย Vscode ,database เลือก sqlite
+- Editor Vscode ,database เลือก sqlite
 - ประกอบด้วย 2 ไฟล์ db.py จัดการด้านดาต้าเบส
 - run ด้วย python durianshopOOP.py
 
